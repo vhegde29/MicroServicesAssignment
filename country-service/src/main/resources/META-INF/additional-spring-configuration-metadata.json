@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "capital-servive.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'capital-servive.ribbon.listOfServers'"
+  },
+  {
+    "name": "capital-service.ribbon.listOfServers",
+    "type": "java.lang.String",
+    "description": "A description for 'capital-service.ribbon.listOfServers'"
+  }
+]}
